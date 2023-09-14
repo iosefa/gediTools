@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="gedi_tools",
-    version="0.0.1",
+    version="0.0.2",
     author="Joseph Emile Honour Percival",
     author_email="ipercival@gmail.com",
     description="A python package to assist working with GEDI data.",
@@ -13,6 +13,8 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/iosefa/gediTools",
     project_urls={
+        "Documentation": "https://geditools.readthedocs.io/en/latest/",
+        "Source": "https://github.com/iosefa/gediTools/",
         "Bug Tracker": "https://github.com/iosefa/gediTools/issues",
     },
     classifiers=[

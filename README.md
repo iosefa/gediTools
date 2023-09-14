@@ -45,12 +45,12 @@ l2b_multiple = GediTransformer.hd5_list_to_l2b(["path1.hd5", "path2.hd5"], clip_
 
 ## Documentation
 
-For more details, please refer to the [Full Documentation](https://your-doc-link-here).
+For more details, please refer to the [Full Documentation](https://geditools.readthedocs.io/en/latest/).
 
 ## Contributing
 
-We welcome contributions! Please see the [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions! Please see the [Contributing Guidelines](https://github.com/iosefa/gediTools/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/iosefa/gediTools/blob/main/LICENSE.md) file for details.
