@@ -3,3 +3,5 @@
 
 # Dcoumentation requirements
 -r docs/requirements.txt
+
+jupyter >= 1.0.0
