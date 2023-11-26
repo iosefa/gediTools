@@ -20,6 +20,9 @@ To install the GEDI Tools library, run:
 pip install gedi-tools
 ```
 
+In order to download data, you will need to register for a [Nasa EarthData](https://urs.earthdata.nasa.gov/home) account. 
+After creating an account, add your credentials to your `.netrc` file. 
+
 ## Usage
 
 ### Single File Transformation
